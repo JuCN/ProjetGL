@@ -1,7 +1,7 @@
 
 // AnalyseGenomeMFC.h : fichier d'en-tête principal pour l'application PROJECT_NAME
 //
-
+#include "stdafx.h"
 #pragma once
 
 #ifndef __AFXWIN_H__

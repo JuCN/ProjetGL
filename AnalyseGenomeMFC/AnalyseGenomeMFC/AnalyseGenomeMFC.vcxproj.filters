@@ -70,14 +70,14 @@
     <ClInclude Include="PatientDADatabase.h">
       <Filter>DataAccess</Filter>
     </ClInclude>
-    <ClInclude Include="Patient.h">
-      <Filter>Model</Filter>
-    </ClInclude>
     <ClInclude Include="Database.h">
       <Filter>DataAccess</Filter>
     </ClInclude>
     <ClInclude Include="Common.h">
       <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Patient.h">
+      <Filter>Model</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -111,11 +111,11 @@
     <ClCompile Include="PatientDAFile.cpp">
       <Filter>DataAccess</Filter>
     </ClCompile>
-    <ClCompile Include="Patient.cpp">
-      <Filter>Model</Filter>
-    </ClCompile>
     <ClCompile Include="Database.cpp">
       <Filter>DataAccess</Filter>
+    </ClCompile>
+    <ClCompile Include="Patient.cpp">
+      <Filter>Model</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
