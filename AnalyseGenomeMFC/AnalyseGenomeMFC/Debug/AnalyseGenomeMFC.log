@@ -1,15 +1,2 @@
-﻿  stdafx.cpp
-  Service.cpp
-  PatientDAFile.cpp
-  PatientDADatabase.cpp
-  PatientDA.cpp
-  Patient.cpp
-  ListenerSocket.cpp
-  Database.cpp
-  ConnectedSocket.cpp
-  AnalyseGenomeMFCDlg.cpp
-  AnalyseGenomeMFC.cpp
-  Génération de code en cours...
-  sqlite3.c
-  AnalyseGenomeMFC.vcxproj -> C:\Users\Julien\Downloads\AnalyseGenomeMFC\Debug\AnalyseGenomeMFC.exe
+﻿  AnalyseGenomeMFC.vcxproj -> C:\Users\Julien\Downloads\AnalyseGenomeMFC\Debug\AnalyseGenomeMFC.exe
   AnalyseGenomeMFC.vcxproj -> C:\Users\Julien\Downloads\AnalyseGenomeMFC\Debug\AnalyseGenomeMFC.pdb (Partial PDB)

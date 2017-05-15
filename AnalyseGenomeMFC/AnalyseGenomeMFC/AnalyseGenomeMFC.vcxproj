@@ -190,7 +190,10 @@
     <ClInclude Include="AnalyseGenomeMFCDlg.h" />
     <ClInclude Include="Common.h" />
     <ClInclude Include="ConnectedSocket.h" />
+    <ClInclude Include="Constantes.h" />
     <ClInclude Include="Database.h" />
+    <ClInclude Include="Dictionnaire.h" />
+    <ClInclude Include="Maladie.h" />
     <ClInclude Include="Patient.h" />
     <ClInclude Include="PatientDA.h" />
     <ClInclude Include="PatientDADatabase.h" />
@@ -207,7 +210,9 @@
     <ClCompile Include="AnalyseGenomeMFCDlg.cpp" />
     <ClCompile Include="ConnectedSocket.cpp" />
     <ClCompile Include="Database.cpp" />
+    <ClCompile Include="Dictionnaire.cpp" />
     <ClCompile Include="ListenerSocket.cpp" />
+    <ClCompile Include="Maladie.cpp" />
     <ClCompile Include="Patient.cpp" />
     <ClCompile Include="PatientDA.cpp" />
     <ClCompile Include="PatientDADatabase.cpp" />
